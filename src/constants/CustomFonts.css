@@ -1,0 +1,137 @@
+.h1 {
+  font-family: 'Montserrat-Medium';
+  font-size: 96px;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--text2);
+}
+
+.h2 {
+  font-family: 'Montserrat-Regular';
+  font-size: 60px;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--text2);
+}
+
+.h3 {
+  font-family: 'Montserrat-Medium';
+  font-size: 48px;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--text2);
+}
+
+.h4 {
+  font-family: 'Montserrat-Bold';
+  font-size: 35px;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--text3);
+  text-transform: uppercase;
+}
+
+.h5 {
+  font-family: 'Montserrat-Medium';
+  font-size: 22px;
+  font-weight: 100;
+  font-style: normal;
+  color: var(--blue-tec);
+}
+
+.h6 {
+  font-family: 'Montserrat-Regular';
+  font-size: 18px;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--text1);
+}
+
+.h7 {
+  font-family: 'Montserrat-Bold';
+  font-size: 20px;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--blue-tec);
+  text-transform: uppercase;
+}
+
+.subtitle1 {
+  font-family: 'Montserrat-Bold';
+  font-size: 16px;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--text2);
+}
+
+.subtitle2 {
+  font-family: 'Montserrat-Medium';
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--text2);
+}
+
+.subtitle3 {
+  font-family: 'Montserrat-Bold';
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--blue-tec);
+}
+
+.body1 {
+  font-family: 'Montserrat-Regular';
+  font-size: 16px;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--text2);
+}
+
+.body2 {
+  font-family: 'Montserrat-Regular';
+  font-size: 13px;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--text3);
+}
+
+.body3 {
+  font-family: 'Montserrat-Regular';
+  font-size: 12px;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--blue-tec);
+}
+
+.body4 {
+  font-family: 'Montserrat-Bold';
+  font-size: 12px;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--blue-tec);
+}
+
+.body5 {
+  font-family: 'Montserrat-Bold';
+  font-size: 12px;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--text3);
+}
+
+.body6 {
+  font-family: 'Montserrat-Regular';
+  font-size: 12px;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--blue-tec);
+}
+
+.bottom {
+  font-family: 'Montserrat-Medium';
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--text2);
+}

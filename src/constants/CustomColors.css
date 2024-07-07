@@ -1,0 +1,24 @@
+:root {
+  --background1: #FFFFFF;
+  --background2: #FAFAFA;
+  --blue-basic: #0051C5;
+  --blue-dark: #003476;
+  --blue-dark2: #0c345c;
+  --blue-dark3: #1c446c;
+  --blue-gray-variant: #3c6484;
+  --blue-light: #0067FF;
+  --blue-tec: #082c54;
+  --gray: #7c94ac;
+  --gray-light: #bcc9d3;
+  --light-red: #f46474;
+  --red-tec: #ec3444;
+  --scroll-hover: #555555;
+  --scroll-track: #f1f1f1;
+  --shadow: rgb(9 128 225 / 10%);
+  --shadow2: rgba(0, 0, 0, 0.15);
+  --sky-blue: #3B8BFD;
+  --text1: #4B4B4B;
+  --text2: #646B70;
+  --text3: #FFFFFF;
+  --white-regular: #FFFFFF;
+  }
