@@ -1,0 +1,10 @@
+.inputForm {
+  border: 1px solid var(--blue-tec);
+  box-sizing: border-box;
+  border-radius: 6px;
+  height: 35px;
+  width: 100%;
+  padding: 0px 10px;
+  font-family: 'Montserrat-Regular';
+  background-color: var(--white-regular);
+}
