@@ -1,0 +1,9 @@
+.inputMultiline {
+  border: 1px solid var(--blue-tec);
+  box-sizing: border-box;
+  border-radius: 6px;
+  width: 100%;
+  padding: 10px 10px;
+  font-family: 'Montserrat-Regular';
+  background-color: var(--white-regular);
+}
