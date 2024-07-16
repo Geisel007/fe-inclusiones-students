@@ -25,5 +25,9 @@
   "WRITE_YOUR_ID_CARD": "Escriba su carnet estudiantil",
   "WELCOME_HOME_PAGE": "Bienvenido a la Página Principal",
   "LIST_MY_FORMS": "Lista de Mis Formularios",
-  "BACK_TO_HOME": "Volver al inicio"
+  "BACK_TO_HOME": "Volver al inicio",
+  "CONSULT_MY_FORMS": "Consultar Mis Inclusiones",
+  "CONSULT": "Consultar",
+  "GROUP": "Grupo",
+  "TEACHER": "Profesor"
 }

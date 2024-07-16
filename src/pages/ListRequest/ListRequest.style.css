@@ -1,3 +1,44 @@
 .list-request-container {
-  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 16px;
+  padding-top: 16px;
+  height: 100vh;
+}
+
+.list-request-container .list-request {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 16px;
+  justify-content: center;
+  overflow-y: auto;
+}
+
+.list-request-container .container-consult-panel {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  gap: 16px;
+  margin-left: 32px;
+  flex-wrap: wrap;
+}
+
+.container-consult-panel .input-consult {
+  width: 300px
+}
+
+.container-consult-panel .btn-consult {
+  width: 200px
+}
+
+.list-request-container .back-to-home-button {
+  align-self: flex-end;
+  width: 15%;
+  margin: 1%;
 }
