@@ -19,6 +19,7 @@ A reusable button component.
 @returns {JSX.Element} - A React JSX element representing the button.
 */
 const Button = ({ 
+  className,
   style, 
   children, 
   onClick, 
@@ -31,6 +32,7 @@ const Button = ({
       className={
         classes([
           'button', 
+          className,
           disabled ? 'button-disable' : 'button-enabled'
         ])
       }

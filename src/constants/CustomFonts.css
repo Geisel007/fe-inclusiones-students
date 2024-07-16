@@ -44,7 +44,7 @@
   font-size: 18px;
   font-weight: 700;
   font-style: normal;
-  color: var(--text1);
+  color: var(--text3);
 }
 
 .h7 {
@@ -61,7 +61,7 @@
   font-size: 16px;
   font-weight: 700;
   font-style: normal;
-  color: var(--text2);
+  color: var(--text3);
 }
 
 .subtitle2 {
@@ -93,7 +93,7 @@
   font-size: 13px;
   font-weight: 500;
   font-style: normal;
-  color: var(--text3);
+  color: var(--text2);
 }
 
 .body3 {
@@ -109,7 +109,7 @@
   font-size: 12px;
   font-weight: 500;
   font-style: normal;
-  color: var(--blue-tec);
+  color: var(--red-tec);
 }
 
 .body5 {
